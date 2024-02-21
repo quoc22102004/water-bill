@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\bin\Debug\net8.0\Tinh_Tien_Nươc.exe
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\bin\Debug\net8.0\Tinh_Tien_Nươc.deps.json
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\bin\Debug\net8.0\Tinh_Tien_Nươc.runtimeconfig.json
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\bin\Debug\net8.0\Tinh_Tien_Nươc.dll
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\bin\Debug\net8.0\Tinh_Tien_Nươc.pdb
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.dll
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\refint\Tinh_Tien_Nươc.dll
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.pdb
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\Tinh_Tien_Nươc.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Tinh_Tien_Nươc\Tinh_Tien_Nươc\obj\Debug\net8.0\ref\Tinh_Tien_Nươc.dll

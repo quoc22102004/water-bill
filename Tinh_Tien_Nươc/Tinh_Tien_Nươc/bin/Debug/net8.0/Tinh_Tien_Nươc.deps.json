@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tinh_Tien_Nươc/1.0.0": {
+        "runtime": {
+          "Tinh_Tien_Nươc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinh_Tien_Nươc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
